@@ -11,5 +11,7 @@
 
 运行程序时，将所有文件放在同一目录下，直接运行 main.py 即可。
 
+![image](https://user-images.githubusercontent.com/92149428/142140400-36590e31-5353-445d-b7e0-0bb4b828d9ff.png)
+看起来是不是还不错！
 
 **具体的实现方法全部写在《实现指导.pdf》中，可供参考**
